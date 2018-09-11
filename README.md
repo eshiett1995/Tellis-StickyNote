@@ -17,6 +17,7 @@ FEATURES:
 
 HOW TO USE:
 
+```
 // 1. Load the script
 <script src="tellis-sticky-note.js"></script>
 
@@ -40,5 +41,7 @@ HOW TO USE:
  
   </script>
   
-  Other 
+  ```
+  
+
 
