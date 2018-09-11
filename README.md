@@ -4,7 +4,7 @@ Sticky node, JQuery Plugin
 
 DEMO
 
-![DEMO]("https://ibb.co/gfPxfU")
+![DEMO]("https://thumb.ibb.co/gfPxfU/for_wolz.png")
 
 
 JQUERY STICKY NOTE PLUGIN FOR YOUR WEB APP;
